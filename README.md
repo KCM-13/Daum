@@ -23,6 +23,25 @@
 <a href="https://www.notion.so/S2C-133c1d11516680618270d8876a55af56"><img width="30" top="100" src="https://github.com/user-attachments/assets/5ef90aaa-4284-4c74-9c86-6b0ccc34f817"></a>
 <br>
 
+### **☘️ Discover Our Local Regions Through Travel, Connect to Our Future Through Journeys! ☘️** 
+<p>
+&nbsp; Are you interested in national festivals and domestic travel, but find it difficult to search through scattered information?
+<br>
+That's why we created <b>Yeohaeng Daum (여행다움)!</b>
+<br><br>
+What if enjoyable travel experiences could infuse vitality into local regions?
+<br>
+<b>Yeohaeng Daum (여행다움)</b> is a domestic travel community platform designed to address the issue of local city decline in South Korea.
+<br><br>
+Here, you can easily find information on various travel destinations and festivals across the country.
+<br>
+Plus, you can connect with new people through friendly reviews and comments.
+<br><br>
+Haven't you been missing out on the happiness closest to you? 
+<br>
+Now, embark on the world of domestic travel with <b>Yeohaeng Daum (여행다움)!</b>
+</p>
+
 ## Contributors☘️
 |                             김보경<br/>([@borybop](https://github.com/borybop))                          |                            김나은<br/>([@naeuun](https://github.com/naeuun))                             |                         김채민<br/>([@KCM13](https://github.com/KCM13))                          |                            고화현<br/>([@koh0074](https://github.com/koh0074))                             |
 |:--------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
