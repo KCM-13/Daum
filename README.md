@@ -23,7 +23,7 @@
 <a href="https://www.notion.so/S2C-133c1d11516680618270d8876a55af56"><img width="30" top="100" src="https://github.com/user-attachments/assets/5ef90aaa-4284-4c74-9c86-6b0ccc34f817"></a>
 <br>
 
-### **☘️ Discover Our Local Regions Through Travel, Connect to Our Future Through Journeys! ☘️** 
+### **☘️ Discover Our Local Regions Through Travel, Connect to Our Future Through Journeys ☘️** 
 <p>
 &nbsp; Are you interested in national festivals and domestic travel, but find it difficult to search through scattered information?
 <br>
